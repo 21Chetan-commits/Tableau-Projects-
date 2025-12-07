@@ -4,6 +4,7 @@ This Tableau dashboard provides a comprehensive analysis of sales performance ac
 It combines bar charts, maps, heatmaps, scatter plots, and treemaps to highlight both trends and deep insights.
 
 **Key Insights from the Dashboard**
+
 **•	Consumer segment drives the highest sales,** especially in the West region.
 
 **•	Technology and Office Supplies** generate the most sales across categories, with Technology performing strongest.
